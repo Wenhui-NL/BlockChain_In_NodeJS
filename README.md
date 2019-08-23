@@ -1,6 +1,6 @@
 ### Build a Blockchain and Cryptocurrency from Scratch
 
-The official code for the *Build a Blockchain and Cryptocurrency from Scratch* course on Udemy by David Katz.
+The is based on official code for the *Build a Blockchain and Cryptocurrency from Scratch* course on Udemy by David Katz.
 
 Check out the course: [https://www.udemy.com/build-blockchain](https://www.udemy.com/build-blockchain)
 
